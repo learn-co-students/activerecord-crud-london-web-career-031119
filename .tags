@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+can_be_instantiated_and_then_saved	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_be_instantiated_and_then_saved$/;"	method	line:8
+can_be_created_with_a_hash_of_attributes	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_be_created_with_a_hash_of_attributes$/;"	method	line:14
+can_be_created_in_a_block	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_be_created_in_a_block(args = __)$/;"	method	line:26
+can_get_the_first_item_in_the_database	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_get_the_first_item_in_the_database$/;"	method	line:36
+can_get_the_last_item_in_the_database	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_get_the_last_item_in_the_database$/;"	method	line:40
+can_get_size_of_the_database	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_get_size_of_the_database$/;"	method	line:44
+can_find_the_first_item_from_the_database_using_id	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_find_the_first_item_from_the_database_using_id$/;"	method	line:48
+can_find_by_multiple_attributes	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_find_by_multiple_attributes$/;"	method	line:52
+can_find_using_where_clause_and_be_sorted	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_find_using_where_clause_and_be_sorted$/;"	method	line:60
+can_be_found_updated_and_saved	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_be_found_updated_and_saved$/;"	method	line:66
+can_update_using_update_method	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_update_using_update_method$/;"	method	line:74
+can_update_multiple_items_at_once	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_update_multiple_items_at_once$/;"	method	line:81
+can_destroy_a_single_item	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_destroy_a_single_item$/;"	method	line:89
+can_destroy_all_items_at_once	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/movies_controller.rb	/^def can_destroy_all_items_at_once$/;"	method	line:95
+Movie	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/app/models/movie.rb	/^class Movie < ActiveRecord::Base$/;"	class	line:1
+__	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/spec/spec_helper.rb	/^def __$/;"	method	line:27
+Active Record CRUD	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^# Active Record CRUD$/;"	function	line:1
+Objective	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^## Objective$/;"	function	line:3
+Instructions	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^## Instructions$/;"	function	line:10
+Create Table	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^### Create Table$/;"	function	line:21
+Tests	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^### Tests$/;"	function	line:38
+Create	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^#### Create$/;"	function	line:50
+Read	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^#### Read$/;"	function	line:56
+Update	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^#### Update$/;"	function	line:65
+Destroy	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^#### Destroy$/;"	function	line:71
+Resources	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/README.md	/^## Resources$/;"	function	line:76
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+CreateMovies	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/db/migrate/20190322125614_create_movies.rb	/^class CreateMovies < ActiveRecord::Migration[5.2]$/;"	class	line:1
+change	/Users/manon/Development/code/activerecord-crud-london-web-career-031119/db/migrate/20190322125614_create_movies.rb	/^  def change$/;"	method	line:2	class:CreateMovies
